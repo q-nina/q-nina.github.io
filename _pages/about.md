@@ -20,14 +20,14 @@ Eye-Movements. A Study in German and English**
 
 ## <span style="color:800000">Education</span>
 
-08/2023 - ongoing M.Sc. Data Science and Artificial Intelligence
-Saarland University,  – present
+**08/2023 - ongoing** M.Sc. Data Science and Artificial Intelligence
+Saarland University
 
 - **Thesis (in progress)**: Exploring the Impact of Quizzes in Elementary-Level Programming on Students’ Problem-Solving Strategies
 - advisors: [Prof. Dr. Tomohiro Nagashima](https://tomonag.org/), [Dr. Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html) and [Ahana Gosh](https://ahana204.github.io/)
   - @ [Learning to Adapt, Learning with Agency Lab](https://tomonag.org/lab/) in corporation with [Machine Teaching Group](https://machineteaching.mpi-sws.org/) at MPI-SWS
 
-B.Sc. Data Science and Artificial Intelligence
+**10/2019 - 08/2023** B.Sc. Data Science and Artificial Intelligence
 Saarland University
 
 - **Thesis**: Classifying (Un)known Words in German Based on Reading Behaviour; Self-Paced Reading and Eye-Tracking Studies
