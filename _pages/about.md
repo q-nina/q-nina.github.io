@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Welcome 👋"
+title: "Nina Quach"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+## <span style="color:800000">Welcome 👋</span>
 
 I’m a Master’s student from Germany with a passion for Data Science, Machine Learning, and Data Visualization.
 
