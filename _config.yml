@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "de-DE"
-title                    : "Nina Quach"
-title_separator          : "-"
+title                    : "Data Science and AI"
+title_separator          : " | "
 name                     : &name "Nina Quach"
 description              : &description ""
 url                      : https://q-nina.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -107,7 +107,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
