@@ -60,7 +60,7 @@ Developed example code and exercises, and supported students through weekly sess
 Introduced core concepts of algorithm design and analysis, with attention to runtime and memory efficiency. 
 Led tutorials, clarified analytical techniques, and provided detailed feedback on assignments.
 
-**Teaching Assistant – Programming 1**
+**Teaching Assistant – Programming 1**  
 *Winter 2020/21 · with [Prof. Dr. Bernd Finkbeiner](https://cispa.de/de/people/finkbeiner)*  
 Taught the fundamentals of computer science using functional programming language Standard ML, covering core computational principles. 
 Designed exercises, held tutorials and office hours, and supported grading and exam preparation.
