@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Researcher & Data Analyst"
   location         : "Karlsruhe"
-  employer         : "BAW"
-  uri              : "https://www.baw.de/de/home/home.html" # URL
+  employer         : "Federal Waterways Engineering and Research Institute"
+  uri              : "" # URL
   email            : "nina.quach@baw.de"
 
   # Academic websites
