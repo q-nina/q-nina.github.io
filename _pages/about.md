@@ -9,13 +9,25 @@ redirect_from:
 
 ## <span style="color:800000">Welcome 👋</span>
 
-I’m a student from Germany with a passion for Data Science, Machine Learning, and Data Visualization.
+I'm based in Germany, working in the intersection of Data Science, Machine Learning and Data Visualisation. I'm interested in the gap between what a model or analysis technically produces and what a person can actually understand, trust and reliably make use of.
 
-I love turning complex data into clear insights and engaging visual stories. My work spans applied ML solutions in both research and industry, with a special interest in Human–Computer Interaction (HCI) research and how AI can transform education and support better learning experiences.
+My recent work has taken me across two very different domains. I worked on an interdisciplinary research project on goal-setting and adaptive feedback, including conducting studies directly in schools on the [AlgeSPACE](https://algespace.sic.saarland/) learning platform, showing how different feedback can land depending on content and level of the student. Currently, I study inland waterways, developing ML models to understand different aspects of waterways, such as disruptions and modal shifts. One of the challenges is making uncertain, multi source data understandable enough to actually inform decisions.
+
+While these domains are different, they cover the same challenge of turning complex data and multiple data sources into insights that can actually be trusted and used to make decisions. This has also drawn me toward Human-Computer Interaction and AI-Safety research to understand how explanations or visualisations shape understanding, or where they can mislead depending on the context.
+
+By now it's probably obvious that I enjoy working across disciplines. There's a lot to learn from other people, whether they're in the same field or somewhere completely different. I'm always happy to connect with researchers and practitioners working on related (or even less related) problems, whether that means new ways of analysing data, combining methods across fields, or just thinking differently about a shared question.
 
 ## <span style="color:800000">Publications</span>
-**Word Familiarity Classification From a Single Trial Based on
-Eye-Movements. A Study in German and English**
+
+**Investigating How Quizzes Shape Problem-Solving Strategies in Elementary Programming**
+  - to appear at ISSEP '26 ([Machine Teaching Group Papers](https://machineteaching.mpi-sws.org/files/papers/issep26_investigating_how_quizzes.pdf))
+  - with Ahana Ghosh, Man Su, Liina Malva, Danial Hooshyar, Tomohiro Nagashima, and Adish Singla
+
+**Fallstudien Verkehrliche Wirkungen von Störungen auf Hauptverkehrsstrecken**
+  - presented at the 3. Verkehrs- und Infrastrukturtagung des BMV-Forschungsnetzwerks ([bmv-forschungsnetzwerk.bund.de](https://www.bmv-forschungsnetzwerk.bund.de/DE/Home/3_Nachrichten/3._Verkehrs-_und_Infrastrukturtagung.html?nn=317826))
+  - with Philipp Parche, Lisa May, Maria Derr, Tim Holthaus, Vigile Marie Fabella, Katja Broeg, Madina Lucia Dolle, Esther Tenten
+
+**Word Familiarity Classification From a Single Trial Based on Eye-Movements. A Study in German and English**
   - presented at ETRA '23 ([ACM Digital Library](https://dl.acm.org/doi/10.1145/3588015.3590118))
   - with Margarita Ryzhova, Iza Škrjanec, Alice Virginia Chase, Emilia Ellsiepen, Vera Demberg
 
@@ -26,14 +38,14 @@ Eye-Movements. A Study in German and English**
 Saarland University
 
 - **Thesis**: Exploring the Impact of Quizzes in Elementary-Level Programming on Students’ Problem-Solving Strategies
-- advisors: [Prof. Dr. Tomohiro Nagashima](https://tomonag.org/), [Prof. Dr. Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html) and [Ahana Gosh](https://ahana204.github.io/)
+- advisors: [Prof. Dr. Tomohiro Nagashima](https://tomonag.org/), [Prof. Dr. Adish Singla](https://machineteaching.mpi-sws.org/adishsingla.html) and [Dr. Ahana Gosh](https://ahana204.github.io/)
   - @ [Learning to Adapt, Learning with Agency Lab](https://tomonag.org/lab/) in corporation with [Machine Teaching Group](https://machineteaching.mpi-sws.org/) at MPI-SWS
 
 **10/2019 - 08/2023** B.Sc. Data Science and Artificial Intelligence
 Saarland University
 
 - **Thesis**: Classifying (Un)known Words in German Based on Reading Behaviour; Self-Paced Reading and Eye-Tracking Studies
-  - advisors: [Prof. Dr. Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html), [Dr. Emilia Ellsiepen](https://www.uni-saarland.de/lehrstuhl/demberg/members/emilia.html) and [Margarita Ryzhova](https://scholar.google.com/citations?user=Na3KsVAAAAAJ)
+  - advisors: [Prof. Dr. Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html), [Dr. Emilia Ellsiepen](https://www.uni-saarland.de/lehrstuhl/demberg/members/emilia.html) and [Dr. Margarita Ryzhova](https://scholar.google.com/citations?user=Na3KsVAAAAAJ)
   - @ [Lehrstuhl für Informatik und Computerlinguistik](https://www.uni-saarland.de/lehrstuhl/demberg.html)
 
 
