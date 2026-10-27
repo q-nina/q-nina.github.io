@@ -9,18 +9,18 @@ redirect_from:
 
 ## <span style="color:800000">Welcome 👋</span>
 
-I'm based in Germany, working in the intersection of Data Science, Machine Learning and Data Visualisation. I'm interested in the gap between what a model or analysis technically produces and what a person can actually understand, trust and reliably make use of.
+I'm a researcher in Germany, working in the intersection of Machine Learning and Waterway Engineering. I'm interested in the gap between what a model or analysis technically produces and what a person can actually understand, trust and reliably make use of.
 
-My recent work has taken me across two very different domains. I worked on an interdisciplinary research project on goal-setting and adaptive feedback, including conducting studies directly in schools on the [AlgeSPACE](https://algespace.sic.saarland/) learning platform, showing how different feedback can land depending on content and level of the student. Currently, I study inland waterways, developing ML models to understand different aspects of waterways, such as disruptions and modal shifts. One of the challenges is making uncertain, multi source data understandable enough to actually inform decisions.
+My recent work has taken me across two very different domains. I worked on an interdisciplinary research project on goal-setting and adaptive feedback, including conducting studies in schools on the [AlgeSPACE](https://algespace.sic.saarland/) learning platform, showing how different feedback can land depending on content and level of the student. Currently, I study inland waterways, developing ML models to understand different aspects of waterways, such as disruptions and modal shifts. One of the challenges is making uncertain data understandable enough to actually inform decisions.
 
-While these domains are different, they cover the same challenge of turning complex data and multiple data sources into insights that can actually be trusted and used to make decisions. This has also drawn me toward Human-Computer Interaction and AI-Safety research to understand how explanations or visualisations shape understanding, or where they can mislead depending on the context.
+While these domains are different, they cover the same challenge of turning complex data and multiple data sources to decision support. This has also drawn me toward Human-Computer Interaction and AI-Safety research to understand how explanations or visualisations shape understanding, or where they can mislead depending on the context.
 
-By now it's probably obvious that I enjoy working across disciplines. There's a lot to learn from other people, whether they're in the same field or somewhere completely different. I'm always happy to connect with researchers and practitioners working on related (or even less related) problems, whether that means new ways of analysing data, combining methods across fields, or just thinking differently about a shared question.
+I enjoy working across disciplines and I'm always happy to connect with researchers and practitioners working on related (or even less related) challenges, whether that means new ways of presenting data, combining methods across fields, or just thinking differently about a shared question.
 
 ## <span style="color:800000">Publications</span>
 
 **Investigating How Quizzes Shape Problem-Solving Strategies in Elementary Programming**
-  - to appear at ISSEP '26 ([Machine Teaching Group Papers](https://machineteaching.mpi-sws.org/files/papers/issep26_investigating_how_quizzes.pdf))
+  - presented at ISSEP '26 ([Lectures in Computer Science, Springer Nature](https://link.springer.com/chapter/10.1007/978-3-032-41153-2_8))
   - with Ahana Ghosh, Man Su, Liina Malva, Danial Hooshyar, Tomohiro Nagashima, and Adish Singla
 
 **Fallstudien Verkehrliche Wirkungen von Störungen auf Hauptverkehrsstrecken**
